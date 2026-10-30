@@ -1,5 +1,5 @@
-<!-- PUBLIC_URL_MARKER: https://win-1h589v6elsd.taildaa7c4.ts.net -->
-> 在线交换台：<https://win-1h589v6elsd.taildaa7c4.ts.net/access>　（稳定域名，GitHub Issue 提交也会自动进复核队列）
+<!-- PUBLIC_URL_MARKER: https://sierra-designing-know-button.trycloudflare.com -->
+> 在线交换台：<https://sierra-designing-know-button.trycloudflare.com/access>　（稳定域名，GitHub Issue 提交也会自动进复核队列）
 
 # 访问交换（Access Exchange）
 
