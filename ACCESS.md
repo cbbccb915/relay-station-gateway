@@ -1,5 +1,5 @@
-<!-- PUBLIC_URL_MARKER: https://determining-using-pipes-boating.trycloudflare.com -->
-> 在线交换台：<https://determining-using-pipes-boating.trycloudflare.com/access>　（稳定域名，GitHub Issue 提交也会自动进复核队列）
+<!-- PUBLIC_URL_MARKER: https://commissions-simultaneously-encouraged-ecology.trycloudflare.com -->
+> 在线交换台：<https://commissions-simultaneously-encouraged-ecology.trycloudflare.com/access>　（稳定域名，GitHub Issue 提交也会自动进复核队列）
 
 # 访问交换（Access Exchange）
 
