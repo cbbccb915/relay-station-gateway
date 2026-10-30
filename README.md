@@ -1,3 +1,6 @@
+<!-- PUBLIC_URL_MARKER: https://task-capitol-forge-liver.trycloudflare.com -->
+> 在线交换台：<https://task-capitol-forge-liver.trycloudflare.com/access>
+
 # Relay Station · OpenAI 兼容中转站
 
 一个**零依赖**（Node 24 + `node:http` + `node:sqlite`）的 OpenAI 兼容 API 网关，
