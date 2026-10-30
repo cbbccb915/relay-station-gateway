@@ -1,5 +1,5 @@
-<!-- PUBLIC_URL_MARKER: https://newport-dedicated-dress-minnesota.trycloudflare.com -->
-> 在线交换台：<https://newport-dedicated-dress-minnesota.trycloudflare.com/access>　（稳定域名，GitHub Issue 提交也会自动进复核队列）
+<!-- PUBLIC_URL_MARKER: https://permissions-cove-setup-appears.trycloudflare.com -->
+> 在线交换台：<https://permissions-cove-setup-appears.trycloudflare.com/access>　（稳定域名，GitHub Issue 提交也会自动进复核队列）
 
 # Relay Station · OpenAI 兼容中转站
 
