@@ -1,3 +1,6 @@
+<!-- PUBLIC_URL_MARKER: https://task-capitol-forge-liver.trycloudflare.com -->
+> 在线交换台：<https://task-capitol-forge-liver.trycloudflare.com/access>
+
 # 访问交换（Access Exchange）
 
 本仓库只公开架构与接口文档。**完整源码包、运维脚本包、配套资料**在门后。
@@ -10,6 +13,16 @@
 | **付费** | **0.10 USD 等值**（按当日汇率折人民币，约 ¥0.72），扫码付款 | 下载令牌 |
 
 令牌：**7 天有效，最多 3 次下载**，不可转让。
+
+## 〇、先看这个：早鸟免费名额
+
+前 **30 名**访客可以**不交换、不付费**直接领：留个邮箱 + 一句用途即可。
+
+- 每人每 IP 限 **1 次**
+- 免费令牌：**3 天**有效、**1 次**下载（付费/交换的是 7 天 / 3 次）
+- 名额发完自动关闭，之后只剩「情报交换」和「付费 0.1 USD」两条路
+
+在线领取：<https://task-capitol-forge-liver.trycloudflare.com/access>
 
 ## 一、情报交换怎么算合格
 
