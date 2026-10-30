@@ -1,0 +1,62 @@
+name: Access Request (交换访问权)
+description: 用情报换访问令牌，或申请付费购买
+title: "[Access] <条目 id> · <一句话说明>"
+labels: ["access-request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        规则见 [ACCESS.md](../blob/main/ACCESS.md)。
+        自动评分 ≥70 直接发令牌；40–69 人工看；<40 会被驳回并说明理由。
+  - type: dropdown
+    id: item
+    attributes:
+      label: 想换哪一项
+      options:
+        - relay-station-src
+        - jailbreak-index
+        - prompt-gateway-kit
+        - phish-drill-kit
+    validations:
+      required: true
+  - type: dropdown
+    id: mode
+    attributes:
+      label: 交换方式
+      options:
+        - 情报交换（推荐，免费）
+        - 付费 0.10 USD 等值
+    validations:
+      required: true
+  - type: input
+    id: model
+    attributes:
+      label: 针对哪个模型 / 哪个版本
+      placeholder: 例：gpt-5.2 (2026-01) / claude-4.6
+    validations:
+      required: true
+  - type: textarea
+    id: material
+    attributes:
+      label: 材料正文（提示词原文 / 触发条件 / 实际输出 / 边界与回退）
+      description: 情报交换至少 1200 字、带证据；付费可只写"付费"。
+      render: text
+    validations:
+      required: true
+  - type: input
+    id: evidence
+    attributes:
+      label: 证据（链接 / 日志摘要）
+      placeholder: https://...
+  - type: input
+    id: email
+    attributes:
+      label: 接收令牌的邮箱（可选）
+      placeholder: you@example.com
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: 确认
+      options:
+        - label: 材料可复现，且不包含他人未授权的私密数据
+          required: true
