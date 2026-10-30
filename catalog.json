@@ -7,41 +7,86 @@
       "id": "relay-station-src",
       "title": "Relay Station 完整源码（OpenAI 兼容中转 + 计费）",
       "kind": "source",
+      "summary": "零依赖 Node 24 网关：预扣-结算双边账、渠道故障转移、号池轮换、卡密与收款码双通道、对账脚本与 118 项回归测试。",
       "sizeBytes": 1600000,
       "priceUsd": 0.1,
       "valueScore": 92,
-      "summary": "零依赖 Node 24 网关：预扣-结算双边账、渠道故障转移、号池轮换、卡密与收款码双通道、对账脚本与 121 条回归测试。",
-      "tags": ["gateway", "billing", "sqlite", "node"]
-    },
-    {
-      "id": "jailbreak-index",
-      "title": "破甲资料索引 + 维护手册（不含第三方源码）",
-      "kind": "index",
-      "sizeBytes": 430000,
-      "priceUsd": 0.1,
-      "valueScore": 88,
-      "summary": "五套公开越狱仓库的版本/commit/文件数清单、失效原因分类、75 条补丁点定位方法、离线回滚与恢复流程。",
-      "tags": ["prompt", "index", "ops"]
+      "tags": [
+        "gateway",
+        "billing",
+        "sqlite",
+        "node"
+      ]
     },
     {
       "id": "prompt-gateway-kit",
       "title": "提示词网关实验件（多模型路由 / 前缀缓存 / 结构化输出）",
       "kind": "source",
+      "summary": "把多家上游当成一个池子用：按能力路由、失败降级、前缀缓存命中统计，附压测脚本。",
       "sizeBytes": 2400000,
       "priceUsd": 0.1,
       "valueScore": 84,
-      "summary": "把多家上游当成一个池子用：按能力路由、失败降级、前缀缓存命中统计，附压测脚本。",
-      "tags": ["llm", "routing", "cache"]
+      "tags": [
+        "llm",
+        "routing",
+        "cache"
+      ]
+    },
+    {
+      "id": "jailbreak-index",
+      "title": "破甲资料索引 + 维护手册（不含第三方源码）",
+      "kind": "index",
+      "summary": "五套公开越狱仓库的版本/commit/文件数清单、失效原因分类、75 条补丁点定位方法、离线回滚与恢复流程；只含自有整理与脚本，不转存他人代码。",
+      "sizeBytes": 420000,
+      "priceUsd": 0.1,
+      "valueScore": 88,
+      "tags": [
+        "prompt",
+        "index",
+        "ops"
+      ]
     },
     {
       "id": "phish-drill-kit",
       "title": "钓鱼演练套件（授权演练用）",
       "kind": "source",
+      "summary": "落地页 + 投递 + 结果统计的最小闭环，附授权边界说明与撤回脚本。",
       "sizeBytes": 1000000,
       "priceUsd": 0.1,
       "valueScore": 71,
-      "summary": "落地页 + 投递 + 结果统计的最小闭环，附授权边界说明与撤回脚本。",
-      "tags": ["drill", "mail", "landing"]
+      "tags": [
+        "drill",
+        "mail",
+        "landing"
+      ]
+    },
+    {
+      "id": "bizapi-selftest",
+      "title": "支付/限流/边缘接口 自测脚本集（.bizapi）",
+      "kind": "source",
+      "summary": "四个可直接跑的探针：支付回调签名、令牌桶限流、边缘函数冷启动、端到端自检；拿来当自己站点的验收基线。",
+      "sizeBytes": 60000,
+      "priceUsd": 0.1,
+      "valueScore": 74,
+      "tags": [
+        "testing",
+        "payments",
+        "ratelimit"
+      ]
+    },
+    {
+      "id": "zh-typeset-kit",
+      "title": "中英混排与气象图表排版样张（SVG/PNG 双份）",
+      "kind": "asset",
+      "summary": "中文排版细节样张：中西文间距、行高、图例与坐标轴刻度对齐，可直接当设计验收对照。",
+      "sizeBytes": 400000,
+      "priceUsd": 0.1,
+      "valueScore": 63,
+      "tags": [
+        "design",
+        "typography",
+        "charts"
+      ]
     }
   ]
 }
