@@ -1,5 +1,5 @@
-<!-- PUBLIC_URL_MARKER: https://task-capitol-forge-liver.trycloudflare.com -->
-> 在线交换台：<https://task-capitol-forge-liver.trycloudflare.com/access>
+<!-- PUBLIC_URL_MARKER: https://unable-bangkok-authorities-meaningful.trycloudflare.com -->
+> 在线交换台：<https://unable-bangkok-authorities-meaningful.trycloudflare.com/access>　（GitHub Issue 提交也会自动进复核队列）
 
 # Relay Station · OpenAI 兼容中转站
 
