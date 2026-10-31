@@ -1,5 +1,5 @@
-<!-- PUBLIC_URL_MARKER: https://kim-surplus-beth-arabia.trycloudflare.com -->
-> 在线交换台：<https://kim-surplus-beth-arabia.trycloudflare.com/access>　（稳定域名，GitHub Issue 提交也会自动进复核队列）
+<!-- PUBLIC_URL_MARKER: https://homepage-music-viewed-tour.trycloudflare.com -->
+> 在线交换台：<https://homepage-music-viewed-tour.trycloudflare.com/access>　（稳定域名，GitHub Issue 提交也会自动进复核队列）
 
 # 访问交换（Access Exchange）
 
