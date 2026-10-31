@@ -1,5 +1,5 @@
-<!-- PUBLIC_URL_MARKER: https://latitude-vessel-die-tablet.trycloudflare.com -->
-> 在线交换台：<https://latitude-vessel-die-tablet.trycloudflare.com/access>　（稳定域名，GitHub Issue 提交也会自动进复核队列）
+<!-- PUBLIC_URL_MARKER: https://fioricet-sponsor-mechanisms-packet.trycloudflare.com -->
+> 在线交换台：<https://fioricet-sponsor-mechanisms-packet.trycloudflare.com/access>　（稳定域名，GitHub Issue 提交也会自动进复核队列）
 
 # Relay Station · OpenAI 兼容中转站
 
