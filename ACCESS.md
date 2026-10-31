@@ -1,5 +1,5 @@
-<!-- PUBLIC_URL_MARKER: https://california-tears-starts-touched.trycloudflare.com -->
-> 在线交换台：<https://california-tears-starts-touched.trycloudflare.com/access>　（稳定域名，GitHub Issue 提交也会自动进复核队列）
+<!-- PUBLIC_URL_MARKER: https://mark-meaningful-smaller-navigate.trycloudflare.com -->
+> 在线交换台：<https://mark-meaningful-smaller-navigate.trycloudflare.com/access>　（稳定域名，GitHub Issue 提交也会自动进复核队列）
 
 # 访问交换（Access Exchange）
 
