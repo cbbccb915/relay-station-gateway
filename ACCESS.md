@@ -1,5 +1,5 @@
-<!-- PUBLIC_URL_MARKER: https://fioricet-sponsor-mechanisms-packet.trycloudflare.com -->
-> 在线交换台：<https://fioricet-sponsor-mechanisms-packet.trycloudflare.com/access>　（稳定域名，GitHub Issue 提交也会自动进复核队列）
+<!-- PUBLIC_URL_MARKER: https://epa-asn-evaluation-emotional.trycloudflare.com -->
+> 在线交换台：<https://epa-asn-evaluation-emotional.trycloudflare.com/access>　（稳定域名，GitHub Issue 提交也会自动进复核队列）
 
 # 访问交换（Access Exchange）
 
