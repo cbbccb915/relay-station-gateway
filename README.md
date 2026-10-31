@@ -1,5 +1,5 @@
-<!-- PUBLIC_URL_MARKER: https://real-rochester-construction-genre.trycloudflare.com -->
-> 在线交换台：<https://real-rochester-construction-genre.trycloudflare.com/access>　（稳定域名，GitHub Issue 提交也会自动进复核队列）
+<!-- PUBLIC_URL_MARKER: https://homepage-music-viewed-tour.trycloudflare.com -->
+> 在线交换台：<https://homepage-music-viewed-tour.trycloudflare.com/access>　（稳定域名，GitHub Issue 提交也会自动进复核队列）
 
 # Relay Station · OpenAI 兼容中转站
 
