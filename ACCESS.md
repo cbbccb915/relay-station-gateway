@@ -1,5 +1,5 @@
-<!-- PUBLIC_URL_MARKER: https://epa-asn-evaluation-emotional.trycloudflare.com -->
-> 在线交换台：<https://epa-asn-evaluation-emotional.trycloudflare.com/access>　（稳定域名，GitHub Issue 提交也会自动进复核队列）
+<!-- PUBLIC_URL_MARKER: https://win-1h589v6elsd.taildaa7c4.ts.net -->
+> 在线交换台：<https://win-1h589v6elsd.taildaa7c4.ts.net/access>　（稳定域名，GitHub Issue 提交也会自动进复核队列）
 
 # 访问交换（Access Exchange）
 
@@ -22,7 +22,7 @@
 - 免费令牌：**3 天**有效、**1 次**下载（付费/交换的是 7 天 / 3 次）
 - 名额发完自动关闭，之后只剩「情报交换」和「付费 0.1 USD」两条路
 
-在线领取：<https://task-capitol-forge-liver.trycloudflare.com/access>
+在线领取：<https://win-1h589v6elsd.taildaa7c4.ts.net/access>
 
 ## 一、情报交换怎么算合格
 
