@@ -1,5 +1,5 @@
-<!-- PUBLIC_URL_MARKER: https://expansion-clicking-included-mill.trycloudflare.com -->
-> 在线交换台：<https://expansion-clicking-included-mill.trycloudflare.com/access>　（稳定域名，GitHub Issue 提交也会自动进复核队列）
+<!-- PUBLIC_URL_MARKER: https://latitude-vessel-die-tablet.trycloudflare.com -->
+> 在线交换台：<https://latitude-vessel-die-tablet.trycloudflare.com/access>　（稳定域名，GitHub Issue 提交也会自动进复核队列）
 
 # 访问交换（Access Exchange）
 
