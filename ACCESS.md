@@ -1,5 +1,5 @@
-<!-- PUBLIC_URL_MARKER: https://seafood-also-circulation-fathers.trycloudflare.com -->
-> 在线交换台：<https://seafood-also-circulation-fathers.trycloudflare.com/access>　（稳定域名，GitHub Issue 提交也会自动进复核队列）
+<!-- PUBLIC_URL_MARKER: https://spare-mild-ooo-independence.trycloudflare.com -->
+> 在线交换台：<https://spare-mild-ooo-independence.trycloudflare.com/access>　（稳定域名，GitHub Issue 提交也会自动进复核队列）
 
 # 访问交换（Access Exchange）
 
