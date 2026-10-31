@@ -1,5 +1,5 @@
-<!-- PUBLIC_URL_MARKER: https://homepage-music-viewed-tour.trycloudflare.com -->
-> 在线交换台：<https://homepage-music-viewed-tour.trycloudflare.com/access>　（稳定域名，GitHub Issue 提交也会自动进复核队列）
+<!-- PUBLIC_URL_MARKER: https://expansion-clicking-included-mill.trycloudflare.com -->
+> 在线交换台：<https://expansion-clicking-included-mill.trycloudflare.com/access>　（稳定域名，GitHub Issue 提交也会自动进复核队列）
 
 # Relay Station · OpenAI 兼容中转站
 
