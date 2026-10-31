@@ -1,5 +1,5 @@
-<!-- PUBLIC_URL_MARKER: https://lib-wow-surprising-cardiovascular.trycloudflare.com -->
-> 在线交换台：<https://lib-wow-surprising-cardiovascular.trycloudflare.com/access>　（稳定域名，GitHub Issue 提交也会自动进复核队列）
+<!-- PUBLIC_URL_MARKER: https://costs-gather-markets-compounds.trycloudflare.com -->
+> 在线交换台：<https://costs-gather-markets-compounds.trycloudflare.com/access>　（稳定域名，GitHub Issue 提交也会自动进复核队列）
 
 # 访问交换（Access Exchange）
 
